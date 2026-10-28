@@ -1,0 +1,7 @@
+[
+  {"package": "ITKR",      "url": "https://github.com/ANTsX/ITKR"},
+  {"package": "ANTsRCore", "url": "https://github.com/ANTsX/ANTsRCore"},
+  {"package": "ANTsR",     "url": "https://github.com/ANTsX/ANTsR"},
+  {"package": "ANTsRNet",  "url": "https://github.com/ANTsX/ANTsRNet"}
+]
+
